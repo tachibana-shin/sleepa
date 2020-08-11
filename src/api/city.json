@@ -1,0 +1,46 @@
+{
+   "color": {
+      "dark": "#ceb4fd", 
+      "light": "#8b61d4"
+   },
+   "background-color": {
+      "dark": "#2b1a46",
+      "light": "#fcf7fe"
+   },
+   "background-image": {
+      "dark": "bg_mountains_city_dark.png",
+      "light": "bg_mountains_city_light.png"
+   },
+   "background-color-range": {
+      "dark": "#402b66",
+      "light": "#e8dbfc"
+   },
+   "items": [{
+      	"icon": "ic_city_car",
+      	"audio": "city_car.ogg"
+      }, {
+      	"icon": "ic_city_traffic",
+      	"audio": "city_traffic.ogg"
+      }, {
+      	"icon": "ic_city_rails",
+      	"audio": "city_rails.ogg"
+      }, {
+      	"icon": "ic_city_subway",
+      	"audio": "city_subway.ogg"
+      }, {
+      	"icon": "ic_city_airplane",
+      	"audio": "city_airplane.ogg"
+      }, {
+      	"icon": "ic_city_restaurant",
+      	"audio": "city_restaurant.ogg"
+      }, {
+      	"icon": "ic_city_keyboard",
+      	"audio": "city_keyboard.ogg"
+      }, {
+      	"icon": "ic_city_fan",
+      	"audio": "city_fan.ogg"
+      }, {
+      	"icon": "ic_city_washing_maschine",
+      	"audio": "city_washing_machine.ogg"
+   }]
+}

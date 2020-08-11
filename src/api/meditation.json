@@ -1,0 +1,61 @@
+{
+   "color": {
+      "dark": "#dfcb7d", 
+      "light": "#d1ae25"
+   },
+   "background-color": {
+      "dark": "#3f3713",
+      "light": "#fffae7"
+   },
+   "background-image": {
+      "dark": "bg_mountains_meditation_dark.png",
+      "light": "bg_mountains_meditation_light.png"
+   },
+   "background-color-range": {
+      "dark": "#695b27",
+      "light": "#fcedae"
+   },
+   "items": [{
+      	"icon": "ic_meditation_piano",
+      	"audio": "meditation_piano.ogg"
+      }, {
+      	"icon": "ic_meditation_flute",
+      	"audio": "meditation_flute.ogg"
+      }, {
+      	"icon": "ic_meditation_stones",
+      	"audio": "meditation_stones.ogg"
+      }, {
+      	"icon": "ic_meditation_bowl",
+      	"audio": "meditation_bowl.ogg"
+      }, {
+      	"icon": "ic_meditation_bell",
+      	"audio": "meditation_bells.ogg"
+      }, {
+      	"icon": "ic_meditation_wind_chimes",
+      	"audio": "meditation_wind_chimes.ogg"
+      }, {
+      	"icon": "ic_meditation_noise",
+      	"audio": "meditation_white_noise.ogg"
+      }, {
+      	"icon": "ic_meditation_noise",
+      	"audio": "meditation_pink_noise.ogg"
+      }, {
+      	"icon": "ic_meditation_noise",
+      	"audio": "meditation_brown_noise.ogg"
+      }, {
+      	"icon": "ic_binaural_alpha",
+      	"audio": "binaural_alpha.ogg"
+      }, {
+      	"icon": "ic_binaural_beta",
+      	"audio": "binaural_beta.ogg"
+      }, {
+      	"icon": "ic_binaural_delta",
+      	"audio": "binaural_delta.ogg"
+      }, {
+      	"icon": "ic_binaural_gamma",
+      	"audio": "binaural_gamma.ogg"
+      }, {
+      	"icon": "ic_binaural_theta",
+      	"audio": "binaural_theta.ogg"
+   }]
+}

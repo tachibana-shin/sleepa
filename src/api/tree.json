@@ -1,0 +1,46 @@
+{
+   "color": {
+      "dark": "#7bd6b9",
+      "light": "#399f7e"
+   },
+   "background-color": {
+      "dark": "#132d24",
+      "light": "#eefff7"
+   },
+   "background-image": {
+      "dark": "bg_mountains_tree_dark.png",
+      "light": "bg_mountains_tree_light.png"
+   },
+   "background-color-range": {
+      "dark": "#1b765c",
+      "light": "#aee1d5"
+   },
+   "items": [{
+      	"icon": "ic_forest",
+      	"audio": "forest_forest.ogg"
+      }, {
+      	"icon": "ic_forest_creek",
+      	"audio": "forest_creek.ogg"
+      }, {
+      	"icon": "ic_forest_waterfall",
+      	"audio": "forest_waterfall.ogg"
+      }, {
+      	"icon": "ic_forest_bird",
+      	"audio": "forest_birds.ogg"
+      }, {
+      	"icon": "ic_forest_leaves",
+      	"audio": "forest_leaves.ogg"
+      }, {
+      	"icon": "ic_forest_wind",
+      	"audio": "forest_wind.ogg"
+      }, {
+      	"icon": "ic_forest_campfire",
+      	"audio": "forest_campfire.ogg"
+      }, {
+      	"icon": "ic_forest_grasshopper",
+      	"audio": "forest_fire.ogg"
+      }, {
+      	"icon": "ic_forest_frog",
+      	"audio": "forest_frogs.ogg"
+   }] 
+}

@@ -1,0 +1,46 @@
+{
+   "color": {
+      "dark": "#a9b8f9",
+      "light": "#20a9a8"
+   },
+   "background-color": {
+      "dark": "#181e34",
+      "light": "#e4f9fa"
+   },
+   "background-image": {
+      "dark": "bg_mountains_rain_dark.png",
+      "light": "bg_mountains_rain_light.png"
+   },
+   "background-color-range": {
+      "dark": "#485172",
+      "light": "#b5e4e4"
+   },
+   "items": [{
+      	"icon":"ic_rain_light",
+      	"audio": "rain_light.ogg"
+      }, {
+      	"icon":"ic_rain_medium",
+      	"audio": "rain_normal.ogg"
+      }, {
+      	"icon":"ic_rain_ocean",
+      	"audio": "rain_ocean.ogg"
+      }, {
+      	"icon":"ic_rain_on_leaves",
+      	"audio": "rain_on_leaves.ogg"
+      }, {
+      	"icon":"ic_rain_on_roof",
+      	"audio": "rain_on_roof.ogg"
+      }, {
+      	"icon":"ic_rain_on_window",
+      	"audio": "rain_on_window.ogg"
+      }, {
+      	"icon":"ic_rain_thunder",
+      	"audio": "rain_thunders.ogg"
+      }, {
+      	"icon":"ic_rain_under_umbrella",
+      	"audio": "rain_under_umbrella.ogg"
+      }, {
+      	"icon":"ic_rain_water",
+      	"audio": "rain_water.ogg"
+   }]
+}
